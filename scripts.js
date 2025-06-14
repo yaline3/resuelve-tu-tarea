@@ -1,0 +1,1 @@
+// Aquí va el código para análisis de imágenes, bloqueo, y cálculo de precios.
